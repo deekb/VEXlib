@@ -1,5 +1,9 @@
 # About VEXlib
 
+> This project is still a work in progress, its documentation and API **WILL CHANGE**
+> 
+{style="warning"}
+
 ## Introduction
 
 VEXlib is a Python module designed to enhance the functionality of the built-in VEX V5 Python API. It provides additional features and utilities to simplify programming for VEX V5 robotics projects.
