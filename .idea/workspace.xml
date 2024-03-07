@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="Added first (rough) draft of documentation" />
+    <list default="true" id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="Cleaned up a bit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,86 +225,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctests in __init__.executor": "Run",
-    "Python tests.Doctests in encoder.executor": "Run",
-    "Python tests.Matrix.executor": "Run",
-    "Python tests.MatrixShape.executor": "Run",
-    "Python tests.Python Unittests.executor": "Run",
-    "Python tests.Python tests for Matrix.TestMatrix.executor": "Debug",
-    "Python tests.Python tests for Matrix.TestMatrix.test_matrix_subtraction.executor": "Run",
-    "Python tests.Python tests for Matrix.TestShape.executor": "Run",
-    "Python tests.Python tests in Matrix.py.executor": "Run",
-    "Python tests.Python tests in tests.executor": "Run",
-    "Python tests.Unittests in test_datetime.py.executor": "Run",
-    "Python.Deploy to SD card.executor": "Run",
-    "Python.DijkstraPathfinding.executor": "Run",
-    "Python.DjikstraTest.executor": "Run",
-    "Python.Matrix.executor": "Debug",
-    "Python.SLAM.executor": "Run",
-    "Python.SLAMSensors.executor": "Run",
-    "Python.Tests.executor": "Run",
-    "Python.Translation2d.executor": "Run",
-    "Python.TrapezoidProfile.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.__main__.executor": "Run",
-    "Python.aoc_grid.executor": "Run",
-    "Python.aoc_state_machine.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.apps.executor": "Run",
-    "Python.arcade_basic.executor": "Run",
-    "Python.chart.executor": "Run",
-    "Python.cmd.executor": "Run",
-    "Python.decorators.executor": "Run",
-    "Python.deploy.__init__.executor": "Run",
-    "Python.dice.executor": "Run",
-    "Python.dynamic_status.executor": "Run",
-    "Python.encode_navigation_map.executor": "Run",
-    "Python.example_dirs.executor": "Run",
-    "Python.example_fork.executor": "Run",
-    "Python.example_getenv.executor": "Run",
-    "Python.example_open.executor": "Debug",
-    "Python.example_rw.executor": "Run",
-    "Python.example_system.executor": "Run",
-    "Python.example_urandom.executor": "Run",
-    "Python.fizzbuzz.executor": "Run",
-    "Python.integers.executor": "Run",
-    "Python.itertools.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mandelbrot_03.executor": "Run",
-    "Python.manifest.executor": "Run",
-    "Python.progress_indicator.executor": "Run",
-    "Python.pycalc.executor": "Run",
-    "Python.shortest-path.executor": "Run",
-    "Python.shuffleboard.executor": "Run",
-    "Python.terminal.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_filestat.executor": "Run",
-    "Python.test_football_pandas.executor": "Run",
-    "Python.test_json.executor": "Run",
-    "Python.test_pool.executor": "Run",
-    "Python.uniform_for_floats.executor": "Run",
-    "Python.vex_board.executor": "ConcurrencyExecutor",
-    "Python.vex_board_wx.executor": "Run",
-    "Python.views.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "Writerside.Web Archive (vl).executor": "Run",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "documentation",
-    "last_opened_file_path": "/home/derek/PycharmProjects/VEXlib",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "writerside.last.selected.productVEXlib": "vl"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in __init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Doctests in encoder.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.MatrixShape.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python Unittests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Matrix.TestMatrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for Matrix.TestMatrix.test_matrix_subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Matrix.TestShape.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Matrix.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Unittests in test_datetime.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Deploy to SD card.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DijkstraPathfinding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DjikstraTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.SLAM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SLAMSensors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Translation2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TrapezoidProfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aoc_grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aoc_state_machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.apps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arcade_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cmd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deploy.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamic_status.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encode_navigation_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_dirs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_fork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_getenv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_open.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.example_rw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_urandom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fizzbuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.itertools.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mandelbrot_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manifest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.progress_indicator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pycalc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shortest-path.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shuffleboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.terminal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_filestat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_football_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_pool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uniform_for_floats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vex_board.executor&quot;: &quot;ConcurrencyExecutor&quot;,
+    &quot;Python.vex_board_wx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;Writerside.Web Archive (vl).executor&quot;: &quot;Run&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;documentation&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/derek/PycharmProjects/VEXlib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;writerside.last.selected.productVEXlib&quot;: &quot;vl&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tests" />
@@ -377,6 +377,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in /home/derek/PycharmProjects/VEXlib/tests" />
         <item itemvalue="Python tests.Python tests in /home/derek/PycharmProjects/VEXlib/tests" />
       </list>
     </recent_temporary>
@@ -523,7 +524,8 @@
     </ignored-roots>
     <MESSAGE value="Removed files that were not documentation" />
     <MESSAGE value="Added first (rough) draft of documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first (rough) draft of documentation" />
+    <MESSAGE value="Cleaned up a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up a bit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
