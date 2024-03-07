@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="Removed files that were not documentation">
+      <change afterPath="$PROJECT_DIR$/Writerside/c.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/About-VEXlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Standards-and-Units.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/starter-topic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/v.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/vl.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Writerside/topics/starter-topic.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="InstanceColorv3">
+    <option name="map">
+      <map>
+        <entry key="$PROJECT_DIR$/Writerside/gs.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="1" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="60" />
+                  <option name="darkBlue" value="60" />
+                  <option name="darkGreen" value="68" />
+                  <option name="darkRed" value="206" />
+                  <option name="green" value="68" />
+                  <option name="red" value="206" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="65" />
+                  <option name="darkBlue" value="65" />
+                  <option name="darkGreen" value="126" />
+                  <option name="darkRed" value="231" />
+                  <option name="green" value="126" />
+                  <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/vl.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="6" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="173" />
+                  <option name="darkBlue" value="173" />
+                  <option name="darkGreen" value="84" />
+                  <option name="darkRed" value="120" />
+                  <option name="green" value="84" />
+                  <option name="red" value="120" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="230" />
+                  <option name="darkBlue" value="230" />
+                  <option name="darkGreen" value="122" />
+                  <option name="darkRed" value="137" />
+                  <option name="green" value="122" />
+                  <option name="red" value="137" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside2/in.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="3" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="147" />
+                  <option name="darkBlue" value="147" />
+                  <option name="darkGreen" value="69" />
+                  <option name="darkRed" value="143" />
+                  <option name="green" value="69" />
+                  <option name="red" value="143" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="227" />
+                  <option name="darkBlue" value="227" />
+                  <option name="darkGreen" value="114" />
+                  <option name="darkRed" value="181" />
+                  <option name="green" value="114" />
+                  <option name="red" value="181" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside2/t.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="2" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="225" />
+                  <option name="darkBlue" value="225" />
+                  <option name="darkGreen" value="149" />
+                  <option name="darkRed" value="56" />
+                  <option name="green" value="149" />
+                  <option name="red" value="56" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="234" />
+                  <option name="darkBlue" value="234" />
+                  <option name="darkGreen" value="197" />
+                  <option name="darkRed" value="81" />
+                  <option name="green" value="197" />
+                  <option name="red" value="81" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside2/v.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="4" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="112" />
+                  <option name="darkBlue" value="112" />
+                  <option name="darkGreen" value="83" />
+                  <option name="darkRed" value="215" />
+                  <option name="green" value="83" />
+                  <option name="red" value="215" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="163" />
+                  <option name="darkBlue" value="163" />
+                  <option name="darkGreen" value="111" />
+                  <option name="darkRed" value="233" />
+                  <option name="green" value="111" />
+                  <option name="red" value="233" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside2/vl.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="5" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="55" />
+                  <option name="darkBlue" value="55" />
+                  <option name="darkGreen" value="114" />
+                  <option name="darkRed" value="226" />
+                  <option name="green" value="114" />
+                  <option name="red" value="226" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="62" />
+                  <option name="darkBlue" value="62" />
+                  <option name="darkGreen" value="168" />
+                  <option name="darkRed" value="232" />
+                  <option name="green" value="168" />
+                  <option name="red" value="232" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Z50WSRz39cMGWnnsZS9SegisWm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Doctests in __init__.executor": "Run",
+    "Python tests.Doctests in encoder.executor": "Run",
+    "Python tests.Matrix.executor": "Run",
+    "Python tests.MatrixShape.executor": "Run",
+    "Python tests.Python Unittests.executor": "Run",
+    "Python tests.Python tests for Matrix.TestMatrix.executor": "Debug",
+    "Python tests.Python tests for Matrix.TestMatrix.test_matrix_subtraction.executor": "Run",
+    "Python tests.Python tests for Matrix.TestShape.executor": "Run",
+    "Python tests.Python tests in Matrix.py.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Run",
+    "Python tests.Unittests in test_datetime.py.executor": "Run",
+    "Python.Deploy to SD card.executor": "Run",
+    "Python.DijkstraPathfinding.executor": "Run",
+    "Python.DjikstraTest.executor": "Run",
+    "Python.Matrix.executor": "Debug",
+    "Python.SLAM.executor": "Run",
+    "Python.SLAMSensors.executor": "Run",
+    "Python.Tests.executor": "Run",
+    "Python.Translation2d.executor": "Run",
+    "Python.TrapezoidProfile.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.__main__.executor": "Run",
+    "Python.aoc_grid.executor": "Run",
+    "Python.aoc_state_machine.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.apps.executor": "Run",
+    "Python.arcade_basic.executor": "Run",
+    "Python.chart.executor": "Run",
+    "Python.cmd.executor": "Run",
+    "Python.decorators.executor": "Run",
+    "Python.deploy.__init__.executor": "Run",
+    "Python.dice.executor": "Run",
+    "Python.dynamic_status.executor": "Run",
+    "Python.encode_navigation_map.executor": "Run",
+    "Python.example_dirs.executor": "Run",
+    "Python.example_fork.executor": "Run",
+    "Python.example_getenv.executor": "Run",
+    "Python.example_open.executor": "Debug",
+    "Python.example_rw.executor": "Run",
+    "Python.example_system.executor": "Run",
+    "Python.example_urandom.executor": "Run",
+    "Python.fizzbuzz.executor": "Run",
+    "Python.integers.executor": "Run",
+    "Python.itertools.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mandelbrot_03.executor": "Run",
+    "Python.manifest.executor": "Run",
+    "Python.progress_indicator.executor": "Run",
+    "Python.pycalc.executor": "Run",
+    "Python.shortest-path.executor": "Run",
+    "Python.shuffleboard.executor": "Run",
+    "Python.terminal.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_filestat.executor": "Run",
+    "Python.test_football_pandas.executor": "Run",
+    "Python.test_json.executor": "Run",
+    "Python.test_pool.executor": "Run",
+    "Python.uniform_for_floats.executor": "Run",
+    "Python.vex_board.executor": "ConcurrencyExecutor",
+    "Python.vex_board_wx.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "documentation",
+    "last_opened_file_path": "/home/derek/PycharmProjects/VEXlib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "writerside.last.selected.productVEXlib": "vl"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/tests/resources" />
+      <recent name="$PROJECT_DIR$/VEXLib/Math" />
+      <recent name="$PROJECT_DIR$/deploy" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VEXLib/Util" />
+      <recent name="$PROJECT_DIR$/util" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sim/resources" />
+      <recent name="$PROJECT_DIR$/sim" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Compound.Tests">
+    <configuration name="Tests" type="CompoundRunConfigurationType">
+      <toRun name="Matrix" type="tests" />
+      <toRun name="MatrixShape" type="tests" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MatrixShape" type="tests" factoryName="Unittests">
+      <module name="VEXlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.10" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/MatrixShape.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in /home/derek/PycharmProjects/VEXlib/tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="VEXlib" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Tests" />
+      <item itemvalue="Python.Matrix" />
+      <item itemvalue="Python.Deploy to SD card" />
+      <item itemvalue="Python tests.MatrixShape" />
+      <item itemvalue="Python tests.Python tests in /home/derek/PycharmProjects/VEXlib/tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in /home/derek/PycharmProjects/VEXlib/tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="" />
+      <created>1701696664177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701696664177</updated>
+      <workItem from="1701696665200" duration="1440000" />
+      <workItem from="1701698346813" duration="1485000" />
+      <workItem from="1701699915478" duration="8637000" />
+      <workItem from="1701740623519" duration="5401000" />
+      <workItem from="1701748459757" duration="7001000" />
+      <workItem from="1701785889307" duration="3114000" />
+      <workItem from="1701795908415" duration="4748000" />
+      <workItem from="1701832850198" duration="2953000" />
+      <workItem from="1701874013380" duration="632000" />
+      <workItem from="1701879639368" duration="3319000" />
+      <workItem from="1701968434968" duration="17000" />
+      <workItem from="1703166326241" duration="9165000" />
+      <workItem from="1703201792070" duration="9569000" />
+      <workItem from="1703598193265" duration="2271000" />
+      <workItem from="1703683972403" duration="3387000" />
+      <workItem from="1703782197748" duration="4451000" />
+      <workItem from="1704379875490" duration="12346000" />
+      <workItem from="1704923003455" duration="734000" />
+      <workItem from="1705006108116" duration="949000" />
+      <workItem from="1705254381799" duration="3286000" />
+      <workItem from="1705286271781" duration="1152000" />
+      <workItem from="1705594253181" duration="12958000" />
+      <workItem from="1705884684882" duration="2857000" />
+      <workItem from="1705928362395" duration="5863000" />
+      <workItem from="1706063070160" duration="352000" />
+      <workItem from="1706063599253" duration="787000" />
+      <workItem from="1706101283349" duration="3603000" />
+      <workItem from="1706188146664" duration="5007000" />
+      <workItem from="1706274288622" duration="5977000" />
+      <workItem from="1706463226289" duration="2943000" />
+      <workItem from="1706575668083" duration="18000" />
+      <workItem from="1707313404419" duration="5145000" />
+      <workItem from="1707341531029" duration="2349000" />
+      <workItem from="1707409435599" duration="3939000" />
+      <workItem from="1707489331685" duration="5212000" />
+      <workItem from="1707604300473" duration="3227000" />
+      <workItem from="1707741575661" duration="1126000" />
+      <workItem from="1707742902531" duration="1252000" />
+      <workItem from="1707748103959" duration="5168000" />
+      <workItem from="1707773979658" duration="605000" />
+      <workItem from="1707829337643" duration="4641000" />
+      <workItem from="1707914728359" duration="632000" />
+      <workItem from="1707923068110" duration="607000" />
+      <workItem from="1708002403005" duration="11240000" />
+      <workItem from="1708360870135" duration="6276000" />
+      <workItem from="1708439660264" duration="593000" />
+      <workItem from="1708526203649" duration="1048000" />
+      <workItem from="1708697986874" duration="4759000" />
+      <workItem from="1708955030376" duration="1358000" />
+      <workItem from="1709010755732" duration="2721000" />
+      <workItem from="1709349361763" duration="216000" />
+      <workItem from="1709407960170" duration="5088000" />
+      <workItem from="1709482570323" duration="3108000" />
+      <workItem from="1709514917658" duration="4245000" />
+      <workItem from="1709556758643" duration="1354000" />
+      <workItem from="1709563592905" duration="599000" />
+      <workItem from="1709583918993" duration="3900000" />
+      <workItem from="1709588641833" duration="7245000" />
+      <workItem from="1709650549980" duration="8102000" />
+      <workItem from="1709683435833" duration="322000" />
+      <workItem from="1709683762962" duration="101000" />
+      <workItem from="1709683872371" duration="361000" />
+      <workItem from="1709684247324" duration="382000" />
+      <workItem from="1709684634467" duration="314000" />
+      <workItem from="1709684959233" duration="3411000" />
+      <workItem from="1709730523577" duration="2260000" />
+      <workItem from="1709738866055" duration="106000" />
+      <workItem from="1709738982252" duration="284000" />
+      <workItem from="1709739274181" duration="3584000" />
+      <workItem from="1709758775417" duration="3661000" />
+      <workItem from="1709762529107" duration="101000" />
+      <workItem from="1709762638813" duration="180000" />
+      <workItem from="1709762828776" duration="2746000" />
+      <workItem from="1709776484536" duration="237000" />
+    </task>
+    <task id="LOCAL-00001" summary="Removed files that were not documentation">
+      <option name="closed" value="true" />
+      <created>1709759192571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709759192571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="documentation" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/micropython-lib" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Removed files that were not documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed files that were not documentation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VEXlib$test.coverage" NAME="test Coverage Results" MODIFIED="1709662665231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/vex-rpi" />
+    <SUITE FILE_PATH="coverage/VEXlib$encode_navigation_map.coverage" NAME="encode_navigation_map Coverage Results" MODIFIED="1705936573483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/VEXlib$integers.coverage" NAME="integers Coverage Results" MODIFIED="1707511484391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/numpy-rng" />
+    <SUITE FILE_PATH="coverage/VEXlib$Unittests_in_test_datetime_py.coverage" NAME="Unittests in test_datetime.py Coverage Results" MODIFIED="1709432397210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/datetime" />
+    <SUITE FILE_PATH="coverage/VEXlib$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1709433137855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/cmd" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_rw.coverage" NAME="example_rw Coverage Results" MODIFIED="1709433333121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$dynamic_status.coverage" NAME="dynamic_status Coverage Results" MODIFIED="1707512199917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-rich-package" />
+    <SUITE FILE_PATH="coverage/VEXlib$vex_board_wx.coverage" NAME="vex_board_wx Coverage Results" MODIFIED="1709408594190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/VEXlib$arcade_basic.coverage" NAME="arcade_basic Coverage Results" MODIFIED="1707511215404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/arcade-a-primer" />
+    <SUITE FILE_PATH="coverage/VEXlib$ExponentialProfile.coverage" NAME="ExponentialProfile Coverage Results" MODIFIED="1701913659561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math/trajectory" />
+    <SUITE FILE_PATH="coverage/VEXlib$terminal.coverage" NAME="terminal Coverage Results" MODIFIED="1707615389396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/pros-cli/pros/cli" />
+    <SUITE FILE_PATH="coverage/VEXlib$deploy.coverage" NAME="deploy.__init__ Coverage Results" MODIFIED="1703170056380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$Deploy_to_SD_card.coverage" NAME="Deploy to SD card Coverage Results" MODIFIED="1709587425871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$pycalc.coverage" NAME="pycalc Coverage Results" MODIFIED="1707511843033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/pyqt-calculator-tutorial/pycalc" />
+    <SUITE FILE_PATH="coverage/VEXlib$dice.coverage" NAME="dice Coverage Results" MODIFIED="1707511903782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-dice-roll/source_code_final" />
+    <SUITE FILE_PATH="coverage/VEXlib$Tests.coverage" NAME="Tests Coverage Results" MODIFIED="1708698972278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1709482772260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/ucurses/ucurses" />
+    <SUITE FILE_PATH="coverage/VEXlib$mandelbrot_03.coverage" NAME="mandelbrot_03 Coverage Results" MODIFIED="1707511419962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/mandelbrot-set-python" />
+    <SUITE FILE_PATH="coverage/VEXlib$test_json.coverage" NAME="test_json Coverage Results" MODIFIED="1709432642755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/json" />
+    <SUITE FILE_PATH="coverage/VEXlib$aoc_state_machine.coverage" NAME="aoc_state_machine Coverage Results" MODIFIED="1707511204313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/advent-of-code" />
+    <SUITE FILE_PATH="coverage/VEXlib$uniform_for_floats.coverage" NAME="uniform_for_floats Coverage Results" MODIFIED="1707511494491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/numpy-rng" />
+    <SUITE FILE_PATH="coverage/VEXlib$vex_board.coverage" NAME="vex_board Coverage Results" MODIFIED="1709586168986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_system.coverage" NAME="example_system Coverage Results" MODIFIED="1709433338277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$DijkstraPathfinding.coverage" NAME="DijkstraPathfinding Coverage Results" MODIFIED="1709519229957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VEXLib/Algorithms" />
+    <SUITE FILE_PATH="coverage/VEXlib$progress_indicator.coverage" NAME="progress_indicator Coverage Results" MODIFIED="1707575657443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-rich-package" />
+    <SUITE FILE_PATH="coverage/VEXlib$Translation2d.coverage" NAME="Translation2d Coverage Results" MODIFIED="1709517439018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VEXLib/Geometry" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_getenv.coverage" NAME="example_getenv Coverage Results" MODIFIED="1709433320898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_open.coverage" NAME="example_open Coverage Results" MODIFIED="1709433326038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1707511592676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/primer-on-python-decorators" />
+    <SUITE FILE_PATH="coverage/VEXlib$SLAMSensors.coverage" NAME="SLAMSensors Coverage Results" MODIFIED="1704423428134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sim" />
+    <SUITE FILE_PATH="coverage/VEXlib$TrapezoidProfile.coverage" NAME="TrapezoidProfile Coverage Results" MODIFIED="1706298108630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math/trajectory" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_fork.coverage" NAME="example_fork Coverage Results" MODIFIED="1709482729363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$test_filestat.coverage" NAME="test_filestat Coverage Results" MODIFIED="1709433359958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$main.coverage" NAME="main Coverage Results" MODIFIED="1709653059850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/VEXlib$.coverage" NAME=" Coverage Results" MODIFIED="1709408580838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/VEXlib$DjikstraTest.coverage" NAME="DjikstraTest Coverage Results" MODIFIED="1707758693429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sim" />
+    <SUITE FILE_PATH="coverage/VEXlib$SLAM.coverage" NAME="SLAM Coverage Results" MODIFIED="1707758629108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sim" />
+    <SUITE FILE_PATH="coverage/VEXlib$Python_Unittests.coverage" NAME="Python Unittests Coverage Results" MODIFIED="1708698767814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$test_pool.coverage" NAME="test_pool Coverage Results" MODIFIED="1709482680619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/multiprocessing" />
+    <SUITE FILE_PATH="coverage/VEXlib$manifest.coverage" NAME="manifest Coverage Results" MODIFIED="1709433351583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$apps.coverage" NAME="apps Coverage Results" MODIFIED="1707511457724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/nearbyshops/shops" />
+    <SUITE FILE_PATH="coverage/VEXlib$shuffleboard.coverage" NAME="shuffleboard Coverage Results" MODIFIED="1707366081157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_dirs.coverage" NAME="example_dirs Coverage Results" MODIFIED="1709482697208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+    <SUITE FILE_PATH="coverage/VEXlib$Doctests_in___init__.coverage" NAME="Doctests in __init__ Coverage Results" MODIFIED="1709432639797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/json/json" />
+    <SUITE FILE_PATH="coverage/VEXlib$test_football_pandas.coverage" NAME="test_football_pandas Coverage Results" MODIFIED="1707512151201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-interview-problems-parsing-csv/full_code" />
+    <SUITE FILE_PATH="coverage/VEXlib$app.coverage" NAME="app Coverage Results" MODIFIED="1707511627285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/prompt-engineering" />
+    <SUITE FILE_PATH="coverage/VEXlib$shortest_path.coverage" NAME="shortest-path Coverage Results" MODIFIED="1707511933187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-heapq-module" />
+    <SUITE FILE_PATH="coverage/VEXlib$itertools.coverage" NAME="itertools Coverage Results" MODIFIED="1709432646337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/itertools" />
+    <SUITE FILE_PATH="coverage/VEXlib$views.coverage" NAME="views Coverage Results" MODIFIED="1707511463012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/nearbyshops/shops" />
+    <SUITE FILE_PATH="coverage/VEXlib$chart.coverage" NAME="chart Coverage Results" MODIFIED="1707511919008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/python-first" />
+    <SUITE FILE_PATH="coverage/VEXlib$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1708698810719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/VEXlib$Matrix.coverage" NAME="Matrix Coverage Results" MODIFIED="1709556887489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$fizzbuzz.coverage" NAME="fizzbuzz Coverage Results" MODIFIED="1708698212048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/chatgpt-mentor" />
+    <SUITE FILE_PATH="coverage/VEXlib$deploy___init__.coverage" NAME="Deploy to SD card Coverage Results" MODIFIED="1705672592581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$Doctests_in_encoder.coverage" NAME="Doctests in encoder Coverage Results" MODIFIED="1709432629469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/python-stdlib/json/json" />
+    <SUITE FILE_PATH="coverage/VEXlib$MatrixShape.coverage" NAME="MatrixShape Coverage Results" MODIFIED="1709556888236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/VEXlib$aoc_grid.coverage" NAME="aoc_grid Coverage Results" MODIFIED="1707511186133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/materials/advent-of-code" />
+    <SUITE FILE_PATH="coverage/VEXlib$example_urandom.coverage" NAME="example_urandom Coverage Results" MODIFIED="1709433347958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/micropython-lib/unix-ffi/os" />
+  </component>
+</project>

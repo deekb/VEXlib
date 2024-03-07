@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="vl"
+                 name="VEXlib"
+                 start-page="About-VEXlib.md">
+
+    <toc-element topic="About-VEXlib.md">
+        <toc-element topic="Standards-and-Units.md"/>
+    </toc-element>
+    <toc-element topic="Getting-Started.md">
+        <toc-element topic="Installation.md"/>
+    </toc-element>
+</instance-profile>
