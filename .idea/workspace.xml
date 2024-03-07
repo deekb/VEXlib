@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="Removed files that were not documentation">
-      <change afterPath="$PROJECT_DIR$/Writerside/c.list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/About-VEXlib.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Standards-and-Units.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/starter-topic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/v.list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/vl.tree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
-    </list>
+    <list default="true" id="de121fe2-3641-4dcf-b3ba-f0516f382a17" name="Changes" comment="Added first (rough) draft of documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,6 +291,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "Writerside.Web Archive (vl).executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "documentation",
     "last_opened_file_path": "/home/derek/PycharmProjects/VEXlib",
@@ -329,10 +321,16 @@
       <recent name="$PROJECT_DIR$/sim" />
     </key>
   </component>
-  <component name="RunManager" selected="Compound.Tests">
+  <component name="RunManager" selected="Writerside.Web Archive (vl)">
     <configuration name="Tests" type="CompoundRunConfigurationType">
       <toRun name="Matrix" type="tests" />
       <toRun name="MatrixShape" type="tests" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Web Archive (vl)" type="StardustRunConfiguration" factoryName="save-as-zip">
+      <option name="folderPath" value="$PROJECT_DIR$" />
+      <option name="instanceId" value="vl" />
+      <option name="instanceName" value="VEXlib" />
       <method v="2" />
     </configuration>
     <configuration name="MatrixShape" type="tests" factoryName="Unittests">
@@ -375,6 +373,7 @@
       <item itemvalue="Python.Deploy to SD card" />
       <item itemvalue="Python tests.MatrixShape" />
       <item itemvalue="Python tests.Python tests in /home/derek/PycharmProjects/VEXlib/tests" />
+      <item itemvalue="Writerside.Web Archive (vl)" />
     </list>
     <recent_temporary>
       <list>
@@ -470,7 +469,7 @@
       <workItem from="1709762529107" duration="101000" />
       <workItem from="1709762638813" duration="180000" />
       <workItem from="1709762828776" duration="2746000" />
-      <workItem from="1709776484536" duration="237000" />
+      <workItem from="1709776484536" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="Removed files that were not documentation">
       <option name="closed" value="true" />
@@ -480,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709759192571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added first (rough) draft of documentation">
+      <option name="closed" value="true" />
+      <created>1709777229976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709777229976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +522,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Removed files that were not documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed files that were not documentation" />
+    <MESSAGE value="Added first (rough) draft of documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first (rough) draft of documentation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
