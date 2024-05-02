@@ -12,7 +12,7 @@ VEXlib is a Python module designed to enhance the functionality of the built-in 
 
 - **Enhanced Functionality**: VEXlib offers increased functionality compared to the standard VEX V5 Python API, making it easier to control VEX V5 robots and create complex robotics applications.
   
-- **Improved Documentation**: The module comes with comprehensive documentation to help users understand its features and usage. The documentation is available at [VEXlib Documentation](https://deekb.github.io/VEXlib).
+- **Improved Documentation**: The module comes with comprehensive documentation to help users understand its features and usage. The documentation is available on GitHub pages at [VEXlib Documentation](https://deekb.github.io/VEXlib).
   
 - **Modular Design**: VEXlib is designed with modularity in mind, allowing users to easily extend its functionality or integrate it into existing projects.
   
