@@ -21,6 +21,6 @@ git clone https://github.com/deekb/VEXlib.git
 </code-block>
 </tab>
 <tab title="Without git">
-If you don't have git you can download the zip version of the code <a href="https://github.com/deekb/VEXlib/archive/refs/heads/master.zip">Here</a> and extract it
+You can download the zip version of the code <a href="https://github.com/deekb/VEXlib/archive/refs/heads/master.zip">Here</a> and extract it
 </tab>
 </tabs>
