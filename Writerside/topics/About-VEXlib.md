@@ -1,4 +1,4 @@
-# About VEXlib
+# Overview
 
 > This project is still a work in progress, its documentation and API **WILL CHANGE**
 > 
@@ -17,3 +17,51 @@ VEXlib is a Python module designed to enhance the functionality of the built-in 
 - **Modular Design**: VEXlib is designed with modularity in mind, allowing users to easily extend its functionality or integrate it into existing projects.
   
 - **Clean Codebase**: The codebase follows Google's Python coding standards, ensuring readability and maintainability.
+
+## Getting Started
+
+To start using VEXlib, follow the steps below:
+
+1. **Installation**: Download and install the VEXlib package from the GitHub repository.
+2. **Setup**: Configure your development environment to include the VEXlib virtual environment in your Python path.
+3. **Example Projects**: Explore the example projects provided in the documentation to understand the basic usage of VEXlib.
+
+## Modules Overview
+
+VEXlib is organized into several modules, each focusing on a specific aspect of robotics programming:
+
+- **Algorithms**: Contains various algorithms for pathfinding, PID control, and other robotics applications.
+- **Geometry**: Provides utilities for geometric calculations and transformations.
+- **Kinematics**: Includes tools for kinematic calculations and odometry.
+- **Math**: Offers mathematical utilities and matrix operations.
+- **Motor**: Contains constants and utilities for motor control.
+- **Network**: Provides networking and telemetry functionalities.
+- **Robot**: Includes base classes and utilities for robot control.
+- **Sensors**: Offers integration and utilities for various sensors.
+- **Threading**: Contains utilities for multithreading and concurrency.
+- **Units**: Provides unit conversion and management.
+- **Util**: General utility functions and classes for various tasks.
+
+## Contributing
+
+We welcome contributions from the community.
+If you have ideas for new features, find bugs,
+or want to improve the documentation, please feel free to submit a pull request or open an issue on GitHub.
+Here are some ways you can contribute:
+
+- **Reporting Bugs**: If you encounter any issues while using VEXlib, please report them on the GitHub issue tracker.
+- **Adding Features**: If you have a feature in mind that would benefit the community, you can contribute by adding it to the codebase.
+- **Improving Documentation**: Good documentation is crucial. If you can enhance the existing documentation or add new examples, your contributions are welcome.
+- **Testing**: Help us ensure the reliability of VEXlib by writing tests and reporting any issues you find.
+
+## Support
+
+For support, you can reach out to the maintainers through the GitHub repository.
+You can also join the community discussions to seek help and share your experiences with other users.
+
+---
+
+This overview provides a brief insight into what VEXlib offers.
+For detailed information on each module and its functionalities,
+please refer to the respective sections in the documentation.
+Happy coding!

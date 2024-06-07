@@ -12,4 +12,18 @@
     <toc-element topic="Getting-Started.md">
         <toc-element topic="Installation.md"/>
     </toc-element>
+    <toc-element topic="Modules.md">
+        <toc-element topic="Algorithms.md"/>
+        <toc-element topic="Geometry.md"/>
+        <toc-element topic="Kinematics.md"/>
+        <toc-element topic="Math.md">
+        </toc-element>
+        <toc-element topic="Motor.md"/>
+        <toc-element topic="Network.md"/>
+        <toc-element topic="Robot.md"/>
+        <toc-element topic="Sensors.md"/>
+        <toc-element topic="Threading.md"/>
+        <toc-element topic="Units.md"/>
+        <toc-element topic="Unit.md"/>
+    </toc-element>
 </instance-profile>

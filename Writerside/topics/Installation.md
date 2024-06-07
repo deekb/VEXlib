@@ -24,3 +24,8 @@ git clone https://github.com/deekb/VEXlib.git
 You can download the zip version of the code <a href="https://github.com/deekb/VEXlib/archive/refs/heads/master.zip">Here</a> and extract it
 </tab>
 </tabs>
+
+Once the code is downloaded you should open it in your IDE of choice and configure it
+
+## Configuration
+For configuration, the main thing that you have to do is to set the python environment of your IDE to the VEXLib virtual environment, this will allow for code autocomplete and uploading/telemetry. I would strongly recommend that you use IntelliJ Pycharm as your IDE, it has a very
