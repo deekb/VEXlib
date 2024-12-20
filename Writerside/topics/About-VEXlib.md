@@ -30,17 +30,17 @@ To start using VEXlib, follow the steps below:
 
 VEXlib is organized into several modules, each focusing on a specific aspect of robotics programming:
 
-- **Algorithms**: Contains various algorithms for pathfinding, PID control, and other robotics applications.
-- **Geometry**: Provides utilities for geometric calculations and transformations.
-- **Kinematics**: Includes tools for kinematic calculations and odometry.
-- **Math**: Offers mathematical utilities and matrix operations.
-- **Motor**: Contains constants and utilities for motor control.
-- **Network**: Provides networking and telemetry functionalities.
-- **Robot**: Includes base classes and utilities for robot control.
-- **Sensors**: Offers integration and utilities for various sensors.
-- **Threading**: Contains utilities for multithreading and concurrency.
-- **Units**: Provides unit conversion and management.
-- **Util**: General utility functions and classes for various tasks.
+- **[Algorithms](Algorithms.md)**: Contains various algorithms for pathfinding, PID control, and other robotics applications.
+- **[Geometry](Geometry.md)**: Provides utilities for geometric calculations and transformations.
+- **[Kinematics](Kinematics.md)**: Includes tools for kinematic calculations and odometry.
+- **[Math](Math.md)**: Offers mathematical utilities and matrix operations.
+- **[Motor](Motor.md)**: Contains constants and utilities for motor control.
+- **[Network](Network.md)**: Provides networking and telemetry functionalities.
+- **[Robot](Robot.md)**: Includes base classes and utilities for robot control.
+- **[Sensors](Sensors.md)**: Offers integration and utilities for various sensors.
+- **[Threading](Threading.md)**: Contains utilities for multithreading and concurrency.
+- **[Units](Units.md)**: Provides unit conversion and management.
+- **[Util](Util.md)**: General utility functions and classes for various tasks.
 
 ## Contributing
 
